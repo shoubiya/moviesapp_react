@@ -1,0 +1,39 @@
+.bdy1{ background:url(https://images.unsplash.com/photo-1495195129352-aeb325a55b65?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1776&q=80);
+    background-size:cover;
+    background-position:right;
+    background-attachment:fixed;
+    height: 310px;
+  }
+.pg{
+  
+    border: 1px solid black;
+    width: 350px;
+    height: 50px;
+    margin-left: 400px;
+    margin-top: -80px;
+}
+.page{
+  background-color:lightblue;
+  color: aliceblue;
+  margin-top: 10px;
+
+}
+.limt{
+  width:70px ;
+  margin-left: -750px;
+  margin-top: -200px;
+  background-color:lightblue;
+}
+.lim{
+  margin-top:20px;
+  margin-left: -870px;
+}
+.val{
+    margin-left: -750px;
+}
+.sort{
+    margin-left:-500px;
+}
+.fil{
+    margin-left: -220px;
+}
